@@ -4,12 +4,3 @@
     Creates a horizontal row that stretches the viewport and adds padding around children
 */
 
-.o-row {}
-
-.o-row--primary {}
-
-.o-row--dark {}
-
-@media (min-width: 768px) {
-    .o-row--lg {}
-}
